@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6088691-0bcf-4f3b-8cde-f883e35b2e7c" name="Default" comment="" />
+    <ignored path="TheMuseWebsite.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_StartLearning_button.coverage" NAME="Nosetests in Test_StartLearning_button Coverage Results" MODIFIED="1481745238178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/ChooseTileSection/CoachingAndCoursesSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_GetAdvice_menu_option.coverage" NAME="Nosetests in Test_GetAdvice_menu_option Coverage Results" MODIFIED="1481734547083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/Header" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_ForEmployers_menu_option.coverage" NAME="Nosetests in Test_ForEmployers_menu_option Coverage Results" MODIFIED="1481735301441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/Header" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_MCkinseyLogo.coverage" NAME="Nosetests in Test_MCkinseyLogo Coverage Results" MODIFIED="1481820966259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedCompanies" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Careers_linktext.coverage" NAME="Nosetests in Test_Careers_linktext Coverage Results" MODIFIED="1481907805743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Instagram.coverage" NAME="Nosetests in Test_Instagram Coverage Results" MODIFIED="1481916925882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_LogIn_LogOut.coverage" NAME="Nosetests in Test_LogIn_LogOut Coverage Results" MODIFIED="1481643518188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_NewYorkJobs_linktext.coverage" NAME="Nosetests in Test_NewYorkJobs_linktext Coverage Results" MODIFIED="1481909637617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_FastCompanyLogo.coverage" NAME="Nosetests in Test_FastCompanyLogo Coverage Results" MODIFIED="1481831705791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedInSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$example.coverage" NAME="example Coverage Results" MODIFIED="1481817210917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/TestimonialSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_EngineeringJobs_linktext.coverage" NAME="Nosetests in Test_EngineeringJobs_linktext Coverage Results" MODIFIED="1481910167896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_ForDevelopers_linktext.coverage" NAME="Nosetests in Test_ForDevelopers_linktext Coverage Results" MODIFIED="1481912640711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Logo.coverage" NAME="Nosetests in Test_Logo Coverage Results" MODIFIED="1481733881557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/Header" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Headline__1_.coverage" NAME="Nosetests in Test_Headline (1) Coverage Results" MODIFIED="1481746967106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/ChooseTileSection/JobSearchSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_ExploreCompanies_menu_option.coverage" NAME="Nosetests in Test_ExploreCompanies_menu_option Coverage Results" MODIFIED="1481734228098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/Header" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_TargetLogo.coverage" NAME="Nosetests in Test_TargetLogo Coverage Results" MODIFIED="1481821916296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedCompanies" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_BrowseJobs_linktext.coverage" NAME="Nosetests in Test_BrowseJobs_linktext Coverage Results" MODIFIED="1481908226639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_FacebookLogo.coverage" NAME="Nosetests in Test_FacebookLogo Coverage Results" MODIFIED="1481819673922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedCompanies" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$HomePage.coverage" NAME="HomePage Coverage Results" MODIFIED="1481318194392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_BrowseCompanies_linktext.coverage" NAME="Nosetests in Test_BrowseCompanies_linktext Coverage Results" MODIFIED="1481908391827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_SanFranciscoJobs_linktext.coverage" NAME="Nosetests in Test_SanFranciscoJobs_linktext Coverage Results" MODIFIED="1481909823869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_DolbyLogo.coverage" NAME="Nosetests in Test_DolbyLogo Coverage Results" MODIFIED="1481822061808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedCompanies" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_FirstHeadline.coverage" NAME="Nosetests in Test_FirstHeadline Coverage Results" MODIFIED="1481736478606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/TopSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_SearchJobs_menu_option__1_.coverage" NAME="Nosetests in Test_SearchJobs_menu_option (1) Coverage Results" MODIFIED="1481734042710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/Header" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_TellAFriend_linktext.coverage" NAME="Nosetests in Test_TellAFriend_linktext Coverage Results" MODIFIED="1481913033434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_DropboxLogo.coverage" NAME="Nosetests in Test_DropboxLogo Coverage Results" MODIFIED="1481821590249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedCompanies" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_MarketingJobs_linktext.coverage" NAME="Nosetests in Test_MarketingJobs_linktext Coverage Results" MODIFIED="1481910575876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_HomePage.coverage" NAME="Nosetests in Test_HomePage_elements Coverage Results" MODIFIED="1481662618571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_LookInside_button.coverage" NAME="Nosetests in Test_LookInside_button Coverage Results" MODIFIED="1481744249167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/ChooseTileSection/ExploreCompaniesSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_BloombergLogo.coverage" NAME="Nosetests in Test_BloombergLogo Coverage Results" MODIFIED="1481829250370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedInSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Pinterest.coverage" NAME="Nosetests in Test_Pinterest Coverage Results" MODIFIED="1481916761191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Linkedin.coverage" NAME="Nosetests in Test_Linkedin Coverage Results" MODIFIED="1481916281212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_TechCrunchLogo.coverage" NAME="Nosetests in Test_TechCrunchLogo Coverage Results" MODIFIED="1481829514114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedInSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_LogIn_LogOut_positive__1_.coverage" NAME="Nosetests in Test_LogIn_LogOut_positive (1) Coverage Results" MODIFIED="1481645536369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_SecondHeadline__1_.coverage" NAME="Nosetests in Test_SecondHeadline (1) Coverage Results" MODIFIED="1481738168138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/ChooseTileSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_TermsOfUse_linktext.coverage" NAME="Nosetests in Test_TermsOfUse_linktext Coverage Results" MODIFIED="1481908640505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_SignUp_SignIn_menu_option.coverage" NAME="Nosetests in Test_SignUp_SignIn_menu_option Coverage Results" MODIFIED="1481735746870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/Header" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_SendFeedback_linktext.coverage" NAME="Nosetests in Test_SendFeedback_linktext Coverage Results" MODIFIED="1481912878756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_BrowseJobs_button.coverage" NAME="Nosetests in Test_BrowseJobs_button Coverage Results" MODIFIED="1481746748330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/ChooseTileSection/JobSearchSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_TestimonialSlider.coverage" NAME="Nosetests in Test_TestimonialSlider Coverage Results" MODIFIED="1481818160148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/TestimonialSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_CNNLogo.coverage" NAME="Nosetests in Test_CNNLogo Coverage Results" MODIFIED="1481831590184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedInSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Paragraph__1_.coverage" NAME="Nosetests in Test_Paragraph (1) Coverage Results" MODIFIED="1481747121112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/ChooseTileSection/JobSearchSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_FooterLogo.coverage" NAME="Nosetests in Test_FooterLogo Coverage Results" MODIFIED="1481904207577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/LogoSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_AboutUs_linktext.coverage" NAME="Nosetests in Test_AboutUs_linktext Coverage Results" MODIFIED="1481905536954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_HBOLogo.coverage" NAME="Nosetests in Test_HBOLogo Coverage Results" MODIFIED="1481820688231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedCompanies" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Facebook.coverage" NAME="Nosetests in Test_Facebook Coverage Results" MODIFIED="1481915944068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_SlackLogo.coverage" NAME="Nosetests in Test_SlackLogo Coverage Results" MODIFIED="1481821751929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedCompanies" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_ZapposLogo.coverage" NAME="Nosetests in Test_ZapposLogo Coverage Results" MODIFIED="1481820006937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedCompanies" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_HelpMeGetStarted_button.coverage" NAME="Nosetests in Test_HelpMeGetStarted_button Coverage Results" MODIFIED="1481737177147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/TopSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_GapLogo.coverage" NAME="Nosetests in Test_GapLogo Coverage Results" MODIFIED="1481821102813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedCompanies" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_ForEmployers_linktext__1_.coverage" NAME="Nosetests in Test_ForEmployers_linktext (1) Coverage Results" MODIFIED="1481912134520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Search_Jobs_menu_option.coverage" NAME="Nosetests in Test_Search_Jobs_menu_option Coverage Results" MODIFIED="1481733296428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/Header" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_WSJLogo.coverage" NAME="Nosetests in Test_WSJLogo Coverage Results" MODIFIED="1481829641880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedInSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_StartReading_button.coverage" NAME="Nosetests in Test_StartReading_button Coverage Results" MODIFIED="1481746113324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/ChooseTileSection/CareerAdviceSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_FirstHeadline__1_.coverage" NAME="Nosetests in Test_FirstHeadline (1) Coverage Results" MODIFIED="1481738059221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/ChooseTileSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_RestOfElements.coverage" NAME="Nosetests in Test_RestOfElements Coverage Results" MODIFIED="1481823385295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/ForEmployersSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_InformationTechnologyJobs_linktext.coverage" NAME="Nosetests in Test_InformationTechnologyJobs_linktext Coverage Results" MODIFIED="1481911285681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Twitter.coverage" NAME="Nosetests in Test_Twitter Coverage Results" MODIFIED="1481916496059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_CoachesAndCourses_menu_option.coverage" NAME="Nosetests in Test_CoachesAndCourses_menu_option Coverage Results" MODIFIED="1481734298710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/Header" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_SecondHeadline.coverage" NAME="Nosetests in Test_SecondHeadline Coverage Results" MODIFIED="1481736664850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/TopSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_HomeawayLogo.coverage" NAME="Nosetests in Test_HomeawayLogo Coverage Results" MODIFIED="1481820543208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FeaturedCompanies" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_EngineeringJobs_linktext__1_.coverage" NAME="Nosetests in Test_EngineeringJobs_linktext (1) Coverage Results" MODIFIED="1481912003127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_SeattleJobs_linktext.coverage" NAME="Nosetests in Test_SeattleJobs_linktext Coverage Results" MODIFIED="1481910007271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_ContactUs_linktext.coverage" NAME="Nosetests in Test_ContactUs_linktext Coverage Results" MODIFIED="1481908064462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_ForCareerCoaches_linktext.coverage" NAME="Nosetests in Test_ForCareerCoaches_linktext Coverage Results" MODIFIED="1481912299085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Headline__2_.coverage" NAME="Nosetests in Test_Headline (2) Coverage Results" MODIFIED="1481747440242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/TestimonialSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Paragraph.coverage" NAME="Nosetests in Test_Paragraph Coverage Results" MODIFIED="1481822478685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/ForEmployersSection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Headline.coverage" NAME="Nosetests in Test_Headline Coverage Results" MODIFIED="1481915635810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection" />
+    <SUITE FILE_PATH="coverage/TheMuseWebsite$Nosetests_in_Test_Team_linktext.coverage" NAME="Nosetests in Test_Team_linktext Coverage Results" MODIFIED="1481905697470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TheMuseWebsite" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <element signature="e#988#1097#0" expanded="false" />
+                <element signature="e#1140#1346#0" expanded="false" />
+                <element signature="e#1381#1481#0" expanded="false" />
+                <element signature="e#1517#1560#0" expanded="false" />
+                <element signature="e#1597#1644#0" expanded="false" />
+                <element signature="e#1679#1749#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test_MultipleFiltersApplied.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuestUser/SearchJobs/Test_MultipleFiltersApplied.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>startTest</find>
+      <find>StringIO</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection/Test_Careers_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection/Test_ContactUs_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection/Test_BrowseJobs_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection/Test_BrowseCompanies_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection/Test_TermsOfUse_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection/Test_Headline.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection/Test_NewYorkJobs_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection/Test_SanFranciscoJobs_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection/Test_SeattleJobs_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection/Test_EngineeringJobs_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection/Test_MarketingJobs_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection/Test_InformationTechnologyJobs_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_Headline.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_ForEmployers_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Headline.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Facebook.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Linkedin.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Twitter.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Pinterest.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Instagram.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_ForCareerCoaches_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_ForDevelopers_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_SendFeedback_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_TellAFriend_linktext.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_Home_menu_option.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_SearchJobs_menu_option.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_CoachesAndCourses_menu_option.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_GetAdvice_menu_option.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_ForEmployers_menu_option.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_Search_menu_option.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/Header/Test_SignUp_SignIn_menu_option.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_HeaderLogo.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_SignIn_menu_option.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_SignUp_menu_option.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/SubHeader/Test_Browse_submenu_option.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/SubHeader/Test_FilterCompanies_submenu_option.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_FirstHeadline.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_SecondHeadline.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_Paragraph.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_PaginationSlider.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_FirstSlide.py" />
+        <option value="$PROJECT_DIR$/HtmlOutput.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/loader.py" />
+        <option value="$PROJECT_DIR$/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/TopSection/Test_FirstHeadline.py" />
+        <option value="$PROJECT_DIR$/report.html" />
+        <option value="$PROJECT_DIR$/GuestUser/SearchJobs/SearchByLocation.py" />
+        <option value="$PROJECT_DIR$/GuestUser/SearchJobs/SearchByKeyword.py" />
+        <option value="$PROJECT_DIR$/GuestUser/SearchJobs/Test_ClearFilter.py" />
+        <option value="$PROJECT_DIR$/GuestUser/SearchJobs/Test_MultipleFiltersApplied.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="55" />
+    <option name="y" value="2" />
+    <option name="width" value="1316" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="false" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuestUser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuestUser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomePage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuestUser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomePage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChooseTileSection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuestUser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomePage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChooseTileSection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExploreCompaniesSubsection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuestUser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomePage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChooseTileSection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoachingAndCoursesSubsection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheMuseWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuestUser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomePage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChooseTileSection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CareerAdviceSubsection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\voutrin\PycharmProjects\TheMuseWebsite\GuestUser\ExploreCompaniesPage\TopSection" />
+      <recent name="C:\Users\voutrin\PycharmProjects\TheMuseWebsite\GuestUser\ExploreCompaniesPage" />
+      <recent name="C:\Users\voutrin\PycharmProjects\TheMuseWebsite\GuestUser\ExploreCompaniesPage\SubHeader" />
+      <recent name="C:\Users\voutrin\PycharmProjects\TheMuseWebsite\GuestUser\ExploreCompaniesPage\Header" />
+      <recent name="C:\Users\voutrin\PycharmProjects\TheMuseWebsite\GuestUser\HomePage\FooterSection\JoinConversationSubsection" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\voutrin\PycharmProjects\TheMuseWebsite\LogedInUser" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Nosetests in Test_ClearFilter">
+    <configuration default="false" name="Nosetests in Test_FirstSlide" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheMuseWebsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\voutrin\PycharmProjects\TheMuseWebsite\GuestUser\ExploreCompaniesPage\TopSection\Test_FirstSlide.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Nosetests in Test_FirstSlide (1)" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheMuseWebsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_FirstSlide.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Nosetests in Test_SearchByLocation" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GuestUser/SearchJobs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheMuseWebsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\voutrin\PycharmProjects\TheMuseWebsite\GuestUser\SearchJobs\Test_SearchByLocation.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Nosetests in Test_SearchByKeyword" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GuestUser/SearchJobs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheMuseWebsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\voutrin\PycharmProjects\TheMuseWebsite\GuestUser\SearchJobs\Test_SearchByKeyword.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Nosetests in Test_ClearFilter" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GuestUser/SearchJobs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheMuseWebsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GuestUser/SearchJobs/Test_ClearFilter.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheMuseWebsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="TheMuseWebsite" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheMuseWebsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheMuseWebsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheMuseWebsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheMuseWebsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheMuseWebsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FirstSlide" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FirstSlide (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_SearchByLocation" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_SearchByKeyword" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_ClearFilter" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_ClearFilter" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_SearchByKeyword" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_SearchByLocation" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FirstSlide (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FirstSlide" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6088691-0bcf-4f3b-8cde-f883e35b2e7c" name="Default" comment="" />
+      <created>1481216382709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1481216382709</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_in_SearchByKeyword - 2016.12.29 at 16h 17m 40s.xml">
+      <configuration name="Nosetests in SearchByKeyword" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 12h 46m 22s.xml">
+      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 12h 50m 22s.xml">
+      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 12h 51m 07s.xml">
+      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 12h 51m 43s.xml">
+      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 13h 00m 50s.xml">
+      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 14h 03m 17s.xml">
+      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 14h 06m 18s.xml">
+      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Test_ClearFilter - 2016.12.29 at 17h 34m 15s.xml">
+      <configuration name="Nosetests in Test_ClearFilter" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_Test_ClearFilter - 2016.12.29 at 17h 35m 33s.xml">
+      <configuration name="Nosetests in Test_ClearFilter" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="2" width="1316" height="772" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21596244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32707354" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3255086" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3364632" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32707354" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3255086" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3364632" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21596244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Linkedin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="85" lean-forward="false" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Twitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="85" lean-forward="false" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Pinterest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="85" lean-forward="false" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Instagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_ForCareerCoaches_linktext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="29" column="85" lean-forward="false" selection-start-line="29" selection-start-column="85" selection-end-line="29" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_ForDevelopers_linktext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="29" column="85" lean-forward="false" selection-start-line="29" selection-start-column="85" selection-end-line="29" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_ForEmployers_linktext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="26" column="54" lean-forward="true" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_TellAFriend_linktext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="29" column="85" lean-forward="false" selection-start-line="29" selection-start-column="85" selection-end-line="29" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_SendFeedback_linktext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" column="85" lean-forward="false" selection-start-line="29" selection-start-column="85" selection-end-line="29" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_Headline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogedInUser/HomePage_elements.py" />
+    <entry file="file://$PROJECT_DIR$/LogedInUser/LogIn_LogOut_positive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_Home_menu_option.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_ExploreCompanies_menu_option.py" />
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_SearchJobs_menu_option.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="31" column="81" lean-forward="false" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_CoachesAndCourses_menu_option.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_GetAdvice_menu_option.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="81" lean-forward="false" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_ForEmployers_menu_option.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="81" lean-forward="false" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_Search_menu_option.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="26" column="75" lean-forward="false" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/Header/Test_SignUp_SignIn_menu_option.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_SignIn_menu_option.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_SignUp_menu_option.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="69" lean-forward="false" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/SubHeader/Test_FilterCompanies_submenu_option.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="91" lean-forward="false" selection-start-line="31" selection-start-column="91" selection-end-line="31" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_SecondHeadline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="24" column="71" lean-forward="false" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/Header/Test_HeaderLogo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/ForEmployersSection/Test_RestOfElements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/TestimonialSection/Test_TestimonialSlider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_Paragraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/SubHeader/Test_Browse_submenu_option.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1420576139/_io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="1277" column="8" lean-forward="false" selection-start-line="1277" selection-start-column="8" selection-end-line="1277" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_FirstSlide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="36" column="44" lean-forward="false" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="335" column="6" lean-forward="false" selection-start-line="335" selection-start-column="6" selection-end-line="335" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="122" column="66" lean-forward="false" selection-start-line="122" selection-start-column="66" selection-end-line="122" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="91" column="6" lean-forward="false" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="768" column="18" lean-forward="true" selection-start-line="768" selection-start-column="18" selection-end-line="768" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/TopSection/Test_FirstHeadline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_BrowseCompanies_linktext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-301">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_BrowseJobs_linktext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_Careers_linktext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_AboutUs_linktext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_ContactUs_linktext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/TopSection/Test_HelpMeGetStarted_button.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#30#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_FirstHeadline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="13" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/SearchJobs/Test_SearchByLocation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/SearchJobs/Test_SearchByKeyword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#30#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/SearchJobs/Test_MultipleFiltersApplied.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3995">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/SearchJobs/Test_ClearFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#988#1097#0" expanded="false" />
+            <element signature="e#1140#1346#0" expanded="false" />
+            <element signature="e#1381#1481#0" expanded="false" />
+            <element signature="e#1517#1560#0" expanded="false" />
+            <element signature="e#1597#1644#0" expanded="false" />
+            <element signature="e#1679#1749#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
