@@ -16,6 +16,8 @@ class FirstSlide(unittest.TestCase):
         first_element = self.driver.find_element_by_xpath("//div/div/div/div/div/a[1]/i")
         first_element.click()
 
+        time
+
     def test_first_tile_is_found(self):
         driver = self.driver
         driver.find_element_by_xpath("//div/div/div/section/div/div[2]/div[1]/div/div/a/div[1]")
@@ -34,7 +36,7 @@ class FirstSlide(unittest.TestCase):
 
         driver = self.driver
         element = driver.find_element_by_xpath("//div/div/div/section/div/div[2]/div[1]/div/div/a/div[2]/h2")
-        self.assertEqual(element.text, 'AT&T')
+        self.assertEqual(element.text, 'Goldman Sachs')
 
 
     def tearDown(self):

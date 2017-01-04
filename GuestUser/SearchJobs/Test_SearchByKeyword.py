@@ -2,7 +2,7 @@ from selenium import webdriver
 import unittest
 import time
 
-class SearchJobsByKeywork(unittest.TestCase):
+class SearchJobsByKeyword(unittest.TestCase):
 
     def setUp(self):
 
@@ -13,7 +13,7 @@ class SearchJobsByKeywork(unittest.TestCase):
         search_jobs = self.driver.find_element_by_xpath("/html/body/header/nav[2]/a[2]")
         search_jobs.click()
 
-    def test_SearchJobsByKeywork(self):
+    def test_SearchJobsByKeyword(self):
 
         driver = self.driver
         element = driver.find_element_by_xpath("//div/section[1]/div/div/div/div/div[2]/div/form/div/input")

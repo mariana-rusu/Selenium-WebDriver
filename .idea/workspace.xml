@@ -92,31 +92,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="run.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-              <folding>
-                <element signature="e#988#1097#0" expanded="false" />
-                <element signature="e#1140#1346#0" expanded="false" />
-                <element signature="e#1381#1481#0" expanded="false" />
-                <element signature="e#1517#1560#0" expanded="false" />
-                <element signature="e#1597#1644#0" expanded="false" />
-                <element signature="e#1679#1749#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test_MultipleFiltersApplied.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Test_MultipleFiltersApplied.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GuestUser/SearchJobs/Test_MultipleFiltersApplied.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="96">
+              <caret line="18" column="58" lean-forward="false" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -139,10 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection/Test_Careers_linktext.py" />
-        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection/Test_ContactUs_linktext.py" />
-        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection/Test_BrowseJobs_linktext.py" />
-        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection/Test_BrowseCompanies_linktext.py" />
         <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/AboutTheMuseSubsection/Test_TermsOfUse_linktext.py" />
         <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection/Test_Headline.py" />
         <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/PopularJobsSubsection/Test_NewYorkJobs_linktext.py" />
@@ -179,7 +156,6 @@
         <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_SecondHeadline.py" />
         <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_Paragraph.py" />
         <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_PaginationSlider.py" />
-        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_FirstSlide.py" />
         <option value="$PROJECT_DIR$/HtmlOutput.py" />
         <option value="$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/loader.py" />
         <option value="$PROJECT_DIR$/HTMLTestRunner.py" />
@@ -188,8 +164,13 @@
         <option value="$PROJECT_DIR$/GuestUser/SearchJobs/SearchByLocation.py" />
         <option value="$PROJECT_DIR$/GuestUser/SearchJobs/SearchByKeyword.py" />
         <option value="$PROJECT_DIR$/GuestUser/SearchJobs/Test_ClearFilter.py" />
-        <option value="$PROJECT_DIR$/GuestUser/SearchJobs/Test_MultipleFiltersApplied.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/ChooseTileSection/Test_FirstHeadline.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_FirstSlide.py" />
+        <option value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/LogoSubsection/Test_FooterLogo.py" />
+        <option value="$PROJECT_DIR$/GuestUser/SearchJobs/Test_SearchByKeyword.py" />
+        <option value="$PROJECT_DIR$/GuestUser/SearchJobs/Test_MultipleFiltersApplied.py" />
       </list>
     </option>
   </component>
@@ -200,10 +181,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
-    <option name="y" value="2" />
-    <option name="width" value="1316" />
-    <option name="height" value="772" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -220,6 +201,16 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -261,118 +252,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HomePage" />
+              <option name="myItemId" value="SearchJobs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TheMuseWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TheMuseWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GuestUser" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HomePage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChooseTileSection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TheMuseWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TheMuseWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GuestUser" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HomePage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChooseTileSection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExploreCompaniesSubsection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TheMuseWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TheMuseWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GuestUser" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HomePage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChooseTileSection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CoachingAndCoursesSubsection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TheMuseWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TheMuseWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GuestUser" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HomePage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChooseTileSection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CareerAdviceSubsection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -396,19 +277,19 @@
       <recent name="C:\Users\voutrin\PycharmProjects\TheMuseWebsite\LogedInUser" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Nosetests in Test_ClearFilter">
-    <configuration default="false" name="Nosetests in Test_FirstSlide" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Nosetests in Test_MultipleFiltersApplied">
+    <configuration default="false" name="Nosetests in Test_ClearFilter" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GuestUser/SearchJobs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TheMuseWebsite" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\voutrin\PycharmProjects\TheMuseWebsite\GuestUser\ExploreCompaniesPage\TopSection\Test_FirstSlide.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GuestUser/SearchJobs/Test_ClearFilter.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -419,7 +300,51 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Nosetests in Test_FirstSlide (1)" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Nosetests in Test_MultipleFiltersApplied" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GuestUser/SearchJobs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheMuseWebsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GuestUser/SearchJobs/Test_MultipleFiltersApplied.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Nosetests in Test_FirstHeadline" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GuestUser/HomePage/ChooseTileSection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheMuseWebsite" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GuestUser/HomePage/ChooseTileSection/Test_FirstHeadline.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Nosetests in Test_FirstSlide" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -441,62 +366,18 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Nosetests in Test_SearchByLocation" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Nosetests in Test_FooterLogo" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GuestUser/SearchJobs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/LogoSubsection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TheMuseWebsite" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\voutrin\PycharmProjects\TheMuseWebsite\GuestUser\SearchJobs\Test_SearchByLocation.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Nosetests in Test_SearchByKeyword" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GuestUser/SearchJobs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TheMuseWebsite" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\voutrin\PycharmProjects\TheMuseWebsite\GuestUser\SearchJobs\Test_SearchByKeyword.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Nosetests in Test_ClearFilter" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GuestUser/SearchJobs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TheMuseWebsite" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GuestUser/SearchJobs/Test_ClearFilter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GuestUser/HomePage/FooterSection/LogoSubsection/Test_FooterLogo.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -649,19 +530,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FirstSlide" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FirstSlide (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_SearchByLocation" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_SearchByKeyword" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_ClearFilter" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_ClearFilter" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_MultipleFiltersApplied" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FirstHeadline" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FirstSlide" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FooterLogo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_ClearFilter" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_SearchByKeyword" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_SearchByLocation" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FirstSlide (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FirstSlide" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_MultipleFiltersApplied" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FooterLogo" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FirstSlide" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_FirstHeadline" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in Test_ClearFilter" />
       </list>
     </recent_temporary>
   </component>
@@ -679,35 +560,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Nosetests_in_SearchByKeyword - 2016.12.29 at 16h 17m 40s.xml">
-      <configuration name="Nosetests in SearchByKeyword" configurationId="tests" />
+    <history-entry file="Nosetests_in_Test_MultipleFiltersApplied - 2017.01.04 at 14h 21m 52s.xml">
+      <configuration name="Nosetests in Test_MultipleFiltersApplied" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 12h 46m 22s.xml">
-      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    <history-entry file="Nosetests_in_Test_MultipleFiltersApplied - 2017.01.04 at 14h 23m 49s.xml">
+      <configuration name="Nosetests in Test_MultipleFiltersApplied" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 12h 50m 22s.xml">
-      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    <history-entry file="Nosetests_in_Test_MultipleFiltersApplied - 2017.01.04 at 14h 27m 16s.xml">
+      <configuration name="Nosetests in Test_MultipleFiltersApplied" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 12h 51m 07s.xml">
-      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    <history-entry file="Nosetests_in_Test_MultipleFiltersApplied - 2017.01.04 at 14h 32m 26s.xml">
+      <configuration name="Nosetests in Test_MultipleFiltersApplied" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 12h 51m 43s.xml">
-      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    <history-entry file="Nosetests_in_Test_MultipleFiltersApplied - 2017.01.04 at 14h 33m 40s.xml">
+      <configuration name="Nosetests in Test_MultipleFiltersApplied" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 13h 00m 50s.xml">
-      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    <history-entry file="Nosetests_in_Test_MultipleFiltersApplied - 2017.01.04 at 14h 34m 16s.xml">
+      <configuration name="Nosetests in Test_MultipleFiltersApplied" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 14h 03m 17s.xml">
-      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    <history-entry file="Nosetests_in_Test_MultipleFiltersApplied - 2017.01.04 at 15h 05m 24s.xml">
+      <configuration name="Nosetests in Test_MultipleFiltersApplied" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_SearchByLocation - 2016.12.29 at 14h 06m 18s.xml">
-      <configuration name="Nosetests in SearchByLocation" configurationId="tests" />
+    <history-entry file="Nosetests_in_Test_MultipleFiltersApplied - 2017.01.04 at 15h 06m 17s.xml">
+      <configuration name="Nosetests in Test_MultipleFiltersApplied" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_Test_ClearFilter - 2016.12.29 at 17h 34m 15s.xml">
-      <configuration name="Nosetests in Test_ClearFilter" configurationId="tests" />
+    <history-entry file="Nosetests_in_Test_MultipleFiltersApplied - 2017.01.04 at 15h 08m 14s.xml">
+      <configuration name="Nosetests in Test_MultipleFiltersApplied" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_Test_ClearFilter - 2016.12.29 at 17h 35m 33s.xml">
-      <configuration name="Nosetests in Test_ClearFilter" configurationId="tests" />
+    <history-entry file="Nosetests_in_Test_MultipleFiltersApplied - 2017.01.04 at 15h 09m 37s.xml">
+      <configuration name="Nosetests in Test_MultipleFiltersApplied" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -720,17 +601,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="2" width="1316" height="772" extended-state="0" />
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21596244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32707354" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20795795" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3255086" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3364632" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3633388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -738,7 +620,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -781,41 +662,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Linkedin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="85" lean-forward="false" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Twitter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="85" lean-forward="false" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Pinterest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="85" lean-forward="false" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/JoinConversationSubsection/Test_Instagram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_ForCareerCoaches_linktext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="29" column="85" lean-forward="false" selection-start-line="29" selection-start-column="85" selection-end-line="29" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/GetInvolvedSubsection/Test_ForDevelopers_linktext.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
@@ -937,13 +783,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/__init__.py" />
     <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_SecondHeadline.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
@@ -986,42 +826,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1420576139/_io.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="1277" column="8" lean-forward="false" selection-start-line="1277" selection-start-column="8" selection-end-line="1277" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_FirstSlide.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="36" column="44" lean-forward="false" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="335" column="6" lean-forward="false" selection-start-line="335" selection-start-column="6" selection-end-line="335" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/loader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="122" column="66" lean-forward="false" selection-start-line="122" selection-start-column="66" selection-end-line="122" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="91" column="6" lean-forward="false" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1420576139/_io.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/case.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/loader.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/suite.py" />
     <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -1036,48 +844,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_BrowseCompanies_linktext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-301">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_BrowseJobs_linktext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_Careers_linktext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_AboutUs_linktext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_ContactUs_linktext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_BrowseCompanies_linktext.py" />
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_BrowseJobs_linktext.py" />
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_Careers_linktext.py" />
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_AboutUs_linktext.py" />
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/FooterSection/AboutTheMuseSubsection/Test_ContactUs_linktext.py" />
     <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/TopSection/Test_HelpMeGetStarted_button.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#30#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1085,37 +860,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="13" column="33" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="13" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/SearchJobs/Test_SearchByLocation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/SearchJobs/Test_SearchByKeyword.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#30#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuestUser/SearchJobs/Test_MultipleFiltersApplied.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1123,32 +867,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3995">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/ChooseTileSection/CareerAdviceSubsection/Test_Headline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GuestUser/SearchJobs/Test_ClearFilter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
+        <state relative-caret-position="391">
           <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="238">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/ChooseTileSection/Test_FirstHeadline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding>
-            <element signature="e#988#1097#0" expanded="false" />
-            <element signature="e#1140#1346#0" expanded="false" />
-            <element signature="e#1381#1481#0" expanded="false" />
-            <element signature="e#1517#1560#0" expanded="false" />
-            <element signature="e#1597#1644#0" expanded="false" />
-            <element signature="e#1679#1749#0" expanded="false" />
+            <element signature="e#0#30#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/HomePage/FooterSection/LogoSubsection/Test_FooterLogo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="51" column="45" lean-forward="false" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#30#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/ExploreCompaniesPage/TopSection/Test_FirstSlide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="38" column="53" lean-forward="false" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/SearchJobs/Test_SearchByLocation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="18" column="85" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/SearchJobs/Test_SearchByKeyword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuestUser/SearchJobs/Test_MultipleFiltersApplied.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="18" column="58" lean-forward="false" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>

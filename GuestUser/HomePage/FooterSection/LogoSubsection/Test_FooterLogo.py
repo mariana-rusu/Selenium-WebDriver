@@ -49,7 +49,7 @@ class Logo(unittest.TestCase):
 
         driver = self.driver
         element = driver.find_element_by_xpath("//*[@id='footer']/div/div[1]/div")
-        self.assertEqual(element.text,"© 2016 Daily Muse, Inc")
+        self.assertEqual(element.text,"© 2017 Daily Muse, Inc")
 
 
 
