@@ -2,7 +2,7 @@ from selenium import webdriver
 import unittest
 import time
 
-class SearchJobsByKeyword(unittest.TestCase):
+class SearchJobsByLocation(unittest.TestCase):
 
     def setUp(self):
 
@@ -12,20 +12,21 @@ class SearchJobsByKeyword(unittest.TestCase):
         time.sleep(1)
         search_jobs = self.driver.find_element_by_xpath("/html/body/header/nav[2]/a[2]")
         search_jobs.click()
+        time.sleep(1)
 
-    def test_SearchJobsByKeyword(self):
+    def test_SearchJobsByLocation(self):
 
         driver = self.driver
-        element = driver.find_element_by_xpath("//div/section[1]/div/div/div/div/div[2]/div/form/div/input")
-        element.send_keys("QA")
+        element = driver.find_element_by_xpath("//*[@id='job_locationautocomplete']")
+        element.send_keys("New York")
         button = driver.find_element_by_xpath("//div/section[1]/div/div/div/div/a[1]")
         button.click()
         time.sleep(10)
         applied_filter = driver.find_element_by_xpath("//div/div[2]/div/div[2]/div/div/ul/li/button/span[1]")
-        self.assertEqual(applied_filter.text,"QA")
+        self.assertEqual(applied_filter.text,"New York")
         self.assertTrue(driver.find_element_by_xpath("//div/div[2]/div/div[2]/div/div/div/a/span"))
         headline = driver.find_element_by_xpath("//*[@id='listing']/div[1]/h1")
-        self.assertEqual(headline.text, "QA JOBS")
+        self.assertEqual(headline.text, "NEW YORK JOBS")
 
 
 

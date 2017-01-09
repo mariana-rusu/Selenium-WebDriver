@@ -6,12 +6,13 @@ class SearchJobsByKeywordAndByLocation(unittest.TestCase):
 
     def setUp(self):
 
-        self.driver = webdriver.Chrome()
+        self.driver = webdriver.Ie()
         self.driver.maximize_window()
         self.driver.get("https://www.themuse.com/")
         time.sleep(1)
         search_jobs = self.driver.find_element_by_xpath("/html/body/header/nav[2]/a[2]")
         search_jobs.click()
+        time.sleep(1)
 
     def test_SearchJobsByKeywordAndByLocation(self):
 
@@ -25,7 +26,7 @@ class SearchJobsByKeywordAndByLocation(unittest.TestCase):
         button = driver.find_element_by_xpath("//div/section[1]/div/div/div/div/a[1]")
         button.click()
         applied_filter1 = driver.find_element_by_xpath("//div/div[2]/div/div[2]/div/div/ul/li[2]/button/span[1]")
-        self.assertEqual(applied_filter1.text, "New York City Metro Area")
+        self.assertEqual(applied_filter1.text, "NEW YORK CITY METRO AREA")
         applied_filter2 = driver.find_element_by_xpath("//div/div[2]/div/div[2]/div/div/ul/li[1]/button/span[1]")
         self.assertEqual(applied_filter2.text,"QA")
         headline = driver.find_element_by_xpath("//*[@id='listing']/div[1]/h1")

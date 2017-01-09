@@ -11,7 +11,7 @@ class Run_all_Tests(unittest.TestCase):
 
         self.suite = unittest.TestSuite()
 
-        module_names = all_test_modules('./GuestUser', '*.py')
+        module_names = all_test_modules('./Chrome/GuestUser/SearchJobs', '*.py')
         tests = [unittest.defaultTestLoader.loadTestsFromName(mname) for mname
                   in module_names]
 
